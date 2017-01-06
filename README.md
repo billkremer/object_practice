@@ -1,23 +1,14 @@
-#Object Activity
+#Object Creation and Functions Practice Activity
 
-Remember to...
-* Fork this repo
-* Clone your forked repo on the command line
+this repo was created to practice creating objects  using both literal and constructor functions.
 
-## Code Instructions
-Pick your favorite team (sports or otherwise) and create an [object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects) with 10 properties and a function that pretty prints the values (prints them in a human readable form, example below).
+The teams described in the exercise are both fictional, based on not having enough data from other teams.
 
-###Example
-```
-The Chicago Bears are a professional American football team in Chicago, Illinois. The Bears compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) North division. The Bears have won nine NFL Championships and one Super Bowl and hold the NFL record for the most enshrinees in the Pro Football Hall of Fame and the most retired jersey numbers.
-```
+the output for the scripts should look like the following:
 
-## README Instructions
-For your README.md, please include the following headings with the following content.
+```The Minneapolis Marauders is a Joggling team from Minneapolis that was established in 2000.  The 500 players practice at Lake Nokomis Park and compete in US Joggling competitions.  They have achieved third place in Division in 2003 under the previous coach Nick Fury, and second place Overall in 2007 under the current coach Peggy Carter.
 
-* Project title
- * Reason why you're doing this.
- * Reason why you chose to model this team as an object.
-* Output
- * Example of the output produced by your application.
+The Kansas Kapitals team is great!
+
+The Kansas Kapitals is a Frisbee team from Nationall Frisbee League that was established in 1999!  The 1 players practice at Kansas City and compete in never won a game competitions!  They have achieved smallest team in league history under the previous coach undefined, and Kirby under the current coach Sandy!!!```
 
