@@ -1,6 +1,6 @@
 #Object Creation and Functions Practice Activity
 
-This repo was created to practice creating objects  using both literal and constructor functions.
+This repo was created to practice creating objects using both literal and constructor functions.
 
 The teams described in the exercise are both fictional, based on not having enough data from other teams.
 
